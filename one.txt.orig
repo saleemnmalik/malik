@@ -4,5 +4,8 @@ Added text to check fetch command
 fetch and merge
 git is nice tool
 scm is powerfull tool
+<<<<<<< HEAD
 git is distributed
+=======
 git is devops tool
+>>>>>>> 62934822be61076d72261244fd54090ecdca4050
