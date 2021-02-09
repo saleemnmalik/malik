@@ -2,3 +2,4 @@ this is one.txt
 Added text from remote repository
 Added text to check fetch command
 fetch and merge
+scm is powerfull tool
