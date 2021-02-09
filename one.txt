@@ -3,3 +3,4 @@ Added text from remote repository
 Added text to check fetch command
 fetch and merge
 git is nice tool
+scm is powerfull tool
