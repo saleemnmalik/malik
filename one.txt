@@ -1,2 +1,3 @@
 this is one.txt
 Added text from remote repository
+Added text to check fetch command
