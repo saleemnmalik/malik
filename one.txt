@@ -7,3 +7,4 @@ scm is powerfull tool
 git is distributed
 git is devops tool
 This is to demo branch
+adding some text
